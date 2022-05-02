@@ -10,7 +10,6 @@ namespace weather
         {
             string filePath = @"weather.txt";
             string[] lines = File.ReadAllLines(filePath);
-            // string myString = "";
             List<double> minT = new List<double>();
             List<int> date = new List<int>();
             List<string> day_of_week = new List<string>(){"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"}; 
