@@ -1,4 +1,4 @@
-# minimum-weather-project
+# Minimum weather
 Finding the day of the minimum weather
 
 How to run the project?
