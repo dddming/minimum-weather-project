@@ -1,0 +1,15 @@
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/weather.deps.json
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/weather.runtimeconfig.json
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/weather.runtimeconfig.dev.json
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/weather.dll
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/ref/weather.dll
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/bin/Debug/net5.0/weather.pdb
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.csprojAssemblyReference.cache
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.AssemblyInfoInputs.cache
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.AssemblyInfo.cs
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.csproj.CoreCompileInputs.cache
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.dll
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/ref/weather.dll
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.pdb
+/Users/mingyang/Documents/GitHub/minimum-weather-project/weather/obj/Debug/net5.0/weather.genruntimeconfig.cache
